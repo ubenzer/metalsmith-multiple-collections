@@ -1,0 +1,9 @@
+{
+  "env": {
+    "node": true
+  },
+
+  "no-use-before-define": [2, "nofunc"],
+  "brace-style": [2, "1tbs", { "allowSingleLine": true }]
+
+}
